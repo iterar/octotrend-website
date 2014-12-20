@@ -1,0 +1,60 @@
+#logo {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	top: 10px;
+	width: 150px;
+}
+
+#title {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	top: 170px;
+	width: 200px;
+
+	font-family: 'Raleway', sans-serif;
+	font-size: 24px;
+	text-align: center;
+}
+
+#print {
+	position: absolute;
+	left: 0;
+	right: 0;
+	margin: auto;
+	top: 210px;
+	width: 560px;
+}
+
+#footer {
+	position: absolute;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	height: 40px;
+	margin: auto;
+	border-top: 1px solid #484848;
+
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	color: #484848;
+	text-align: center;
+}
+
+#footer p {
+	height: 20px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 0;
+	bottom: 0;
+	margin: auto;
+}
+
+#footer img {
+	padding-bottom: 1px;
+	vertical-align: middle;
+}
