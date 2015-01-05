@@ -11,6 +11,10 @@ body {
 	width: 150px;
 }
 
+#logo img {
+	width: 100%;
+}
+
 #title {
 	left: 0;
 	right: 0;
@@ -58,6 +62,12 @@ body {
 }
 
 @media(max-width:570px){
+	#logo {
+		width: 100px;
+	}
+	#title {
+		font-size: 22px;
+	}
 	#print, #print img {
 		width: 100%;
 	}
